@@ -1,7 +1,9 @@
 // задание 2
 
 let x
-x = 8
+x = 'true'
+// x = 8
+// x = true
 let xType = typeof x
 
 switch (xType) {
